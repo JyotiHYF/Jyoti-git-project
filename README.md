@@ -1,2 +1,2 @@
 # Jyoti-git-project
-This is the my second repo
+This is my second repo
